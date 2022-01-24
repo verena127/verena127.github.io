@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Annual Data Visualization Survey 2021 - Challenge
 
-You can use the [editor on GitHub](https://github.com/verena127/verena127.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+_Findings from the Annual DVS Survey 2021
+by Verena Schrader_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When considering becoming a data visualization designer or switching roles within field, a question that comes into one's mind is how high is the earning potential. This question was the starting point for analyzing the data. Another goal was to evaluate gender balance.
 
-### Markdown
+The DVS Survey 2021 data has been used to create the visualization. The first part, the flowing sankey diagram, shows that salaries vary greatly, based on the differnt roles. The second half shows the percentage of women and men in the respective salary ranges. The amount of diverse data was too small to be shown in the diagram. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The result shows that the salary depends not only on the working field and role, but also on gender. The visualization illustrates that the balance is not yet finished. Although gender equality has made great steps forward in the past few years, one can see that there is still room for improvement. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![Image description](data-viz-challenge-2021.png)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+The fonts and colors used in the diagram are accessibility tested and should also work for people having any kind of color blindness. Furthermore salary information from the survey results were summarized to ranges to make the chart easier to understand. 
 
-**Bold** and _Italic_ and `Code` text
+Survey data: https://www.datavisualizationsociety.org/soti-challenge-2021
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verena127/verena127.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
