@@ -1,4 +1,4 @@
-## Annual Data Visualization Survey 2021 - Challenge
+# Annual Data Visualization Survey 2021 - Challenge
 
 _Findings from the Annual DVS Survey 2021
 by Verena Schrader_
