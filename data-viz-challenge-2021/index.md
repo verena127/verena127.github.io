@@ -1,4 +1,6 @@
-# Annual Data Visualization Survey 2021 - Challenge
+#  Data Visualization Survey Challenge 2021 
+#### Data Viz Roles' Salary and Gender Balance
+
 
 _Findings from the Annual DVS Survey 2021
 by Verena Schrader_
@@ -15,5 +17,7 @@ The result shows that the salary depends not only on the working field and role,
 
 The fonts and colors used in the diagram are accessibility tested and should also work for people having any kind of color blindness. Furthermore salary information from the survey results were summarized to ranges to make the chart easier to understand. 
 
-Survey data: https://www.datavisualizationsociety.org/soti-challenge-2021
 
+_Based on Annual Data Visualization State of the Industry (SOTI) Survey_
+
+Survey data: https://www.datavisualizationsociety.org/soti-challenge-2021
