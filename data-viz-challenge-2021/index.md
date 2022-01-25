@@ -12,7 +12,7 @@ The DVS Survey 2021 data has been used to create the visualization. The first pa
 The result shows that the salary depends not only on the working field and role, but also on gender. The visualization illustrates that the balance is not yet finished. Although gender equality has made great steps forward in the past few years, one can see that there is still room for improvement. 
 
 
-![Image description](data-viz-challenge-2021.png)
+![Image description](data-viz-challenge-2021/data-viz-challenge-2021.png)
 
 
 The fonts and colors used in the diagram are accessibility tested and should also work for people having any kind of color blindness. Furthermore salary information from the survey results were summarized to ranges to make the chart easier to understand. 
